@@ -1,5 +1,5 @@
 
-//BERKAN BERK 29054
+//BERKAN BERK
 
 #include <iostream>
 #include <string>
